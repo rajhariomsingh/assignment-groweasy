@@ -2,7 +2,7 @@
 
 This project is a **Next.js web application** that plays a **high-quality video animation** in the background, enhanced with **GSAP animations**. It includes **Play & Pause controls** for better interaction.
 
-![Preview](https://hariom-groweasy.netlify.app)
+[👉 Live Preview of the Project](https://hariom-groweasy.netlify.app)
 
 ---
 
